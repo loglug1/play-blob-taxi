@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "taxiWebBuild.data.unityweb",
+"asmCodeUrl": "taxiWebBuild.asm.code.unityweb",
+"asmMemoryUrl": "taxiWebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "taxiWebBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
